@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Production-Project\\E_Learning_Platform\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6AD5EF1-9D03-46E0-AB71-00C702910CBA}|Presentation.csproj|e:\\production-project\\e_learning_platform\\infrastructure\\obj\\release\\net8.0\\infrastructure.assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6AD5EF1-9D03-46E0-AB71-00C702910CBA}|Presentation.csproj|solutionrelative:infrastructure\\obj\\release\\net8.0\\infrastructure.assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6AD5EF1-9D03-46E0-AB71-00C702910CBA}|Presentation.csproj|e:\\production-project\\e_learning_platform\\infrastructure\\obj\\debug\\netstandard2.1\\classlibrary5.assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6AD5EF1-9D03-46E0-AB71-00C702910CBA}|Presentation.csproj|solutionrelative:infrastructure\\obj\\debug\\netstandard2.1\\classlibrary5.assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6AD5EF1-9D03-46E0-AB71-00C702910CBA}|Presentation.csproj|e:\\production-project\\e_learning_platform\\domain\\obj\\release\\net8.0\\domain.assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6AD5EF1-9D03-46E0-AB71-00C702910CBA}|Presentation.csproj|solutionrelative:domain\\obj\\release\\net8.0\\domain.assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6AD5EF1-9D03-46E0-AB71-00C702910CBA}|Presentation.csproj|e:\\production-project\\e_learning_platform\\domain\\obj\\debug\\net8.0\\domain.assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6AD5EF1-9D03-46E0-AB71-00C702910CBA}|Presentation.csproj|solutionrelative:domain\\obj\\debug\\net8.0\\domain.assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6AD5EF1-9D03-46E0-AB71-00C702910CBA}|Presentation.csproj|e:\\production-project\\e_learning_platform\\application\\obj\\release\\net8.0\\application.assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6AD5EF1-9D03-46E0-AB71-00C702910CBA}|Presentation.csproj|solutionrelative:application\\obj\\release\\net8.0\\application.assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6AD5EF1-9D03-46E0-AB71-00C702910CBA}|Presentation.csproj|e:\\production-project\\e_learning_platform\\application\\obj\\debug\\netstandard2.1\\ff.assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6AD5EF1-9D03-46E0-AB71-00C702910CBA}|Presentation.csproj|solutionrelative:application\\obj\\debug\\netstandard2.1\\ff.assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6AD5EF1-9D03-46E0-AB71-00C702910CBA}|Presentation.csproj|e:\\production-project\\e_learning_platform\\domain\\obj\\debug\\netstandard2.1\\classlibrary4.assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6AD5EF1-9D03-46E0-AB71-00C702910CBA}|Presentation.csproj|solutionrelative:domain\\obj\\debug\\netstandard2.1\\classlibrary4.assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Infrastructure.AssemblyInfo.cs",
+              "DocumentMoniker": "E:\\Production-Project\\E_Learning_Platform\\Infrastructure\\obj\\Release\\net8.0\\Infrastructure.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\obj\\Release\\net8.0\\Infrastructure.AssemblyInfo.cs",
+              "ToolTip": "E:\\Production-Project\\E_Learning_Platform\\Infrastructure\\obj\\Release\\net8.0\\Infrastructure.AssemblyInfo.cs",
+              "RelativeToolTip": "Infrastructure\\obj\\Release\\net8.0\\Infrastructure.AssemblyInfo.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAgwBMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T12:46:33.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClassLibrary5.AssemblyInfo.cs",
+              "DocumentMoniker": "E:\\Production-Project\\E_Learning_Platform\\Infrastructure\\obj\\Debug\\netstandard2.1\\ClassLibrary5.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\obj\\Debug\\netstandard2.1\\ClassLibrary5.AssemblyInfo.cs",
+              "ToolTip": "E:\\Production-Project\\E_Learning_Platform\\Infrastructure\\obj\\Debug\\netstandard2.1\\ClassLibrary5.AssemblyInfo.cs",
+              "RelativeToolTip": "Infrastructure\\obj\\Debug\\netstandard2.1\\ClassLibrary5.AssemblyInfo.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAgwBMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T12:46:31.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Domain.AssemblyInfo.cs",
+              "DocumentMoniker": "E:\\Production-Project\\E_Learning_Platform\\Domain\\obj\\Release\\net8.0\\Domain.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Domain\\obj\\Release\\net8.0\\Domain.AssemblyInfo.cs",
+              "ToolTip": "E:\\Production-Project\\E_Learning_Platform\\Domain\\obj\\Release\\net8.0\\Domain.AssemblyInfo.cs",
+              "RelativeToolTip": "Domain\\obj\\Release\\net8.0\\Domain.AssemblyInfo.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAgwBMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T12:46:14.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Domain.AssemblyInfo.cs",
+              "DocumentMoniker": "E:\\Production-Project\\E_Learning_Platform\\Domain\\obj\\Debug\\net8.0\\Domain.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Domain\\obj\\Debug\\net8.0\\Domain.AssemblyInfo.cs",
+              "ToolTip": "E:\\Production-Project\\E_Learning_Platform\\Domain\\obj\\Debug\\net8.0\\Domain.AssemblyInfo.cs",
+              "RelativeToolTip": "Domain\\obj\\Debug\\net8.0\\Domain.AssemblyInfo.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAgwBMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T12:44:18.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ff.AssemblyInfo.cs",
+              "DocumentMoniker": "E:\\Production-Project\\E_Learning_Platform\\Application\\obj\\Debug\\netstandard2.1\\ff.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Application\\obj\\Debug\\netstandard2.1\\ff.AssemblyInfo.cs",
+              "ToolTip": "E:\\Production-Project\\E_Learning_Platform\\Application\\obj\\Debug\\netstandard2.1\\ff.AssemblyInfo.cs",
+              "RelativeToolTip": "Application\\obj\\Debug\\netstandard2.1\\ff.AssemblyInfo.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAgwBMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T12:24:39.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClassLibrary4.AssemblyInfo.cs",
+              "DocumentMoniker": "E:\\Production-Project\\E_Learning_Platform\\Domain\\obj\\Debug\\netstandard2.1\\ClassLibrary4.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Domain\\obj\\Debug\\netstandard2.1\\ClassLibrary4.AssemblyInfo.cs",
+              "ToolTip": "E:\\Production-Project\\E_Learning_Platform\\Domain\\obj\\Debug\\netstandard2.1\\ClassLibrary4.AssemblyInfo.cs",
+              "RelativeToolTip": "Domain\\obj\\Debug\\netstandard2.1\\ClassLibrary4.AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T12:22:11.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Application.AssemblyInfo.cs",
+              "DocumentMoniker": "E:\\Production-Project\\E_Learning_Platform\\Application\\obj\\Release\\net8.0\\Application.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Application\\obj\\Release\\net8.0\\Application.AssemblyInfo.cs",
+              "ToolTip": "E:\\Production-Project\\E_Learning_Platform\\Application\\obj\\Release\\net8.0\\Application.AssemblyInfo.cs",
+              "RelativeToolTip": "Application\\obj\\Release\\net8.0\\Application.AssemblyInfo.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAgwBMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T12:22:08.705Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 264,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

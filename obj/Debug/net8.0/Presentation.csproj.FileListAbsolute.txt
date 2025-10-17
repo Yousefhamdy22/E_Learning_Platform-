@@ -1,0 +1,9 @@
+E:\Production-Project\E_Learning_Platform\obj\Debug\net8.0\Presentation.csproj.AssemblyReference.cache
+E:\Production-Project\E_Learning_Platform\obj\Debug\net8.0\rpswa.dswa.cache.json
+E:\Production-Project\E_Learning_Platform\obj\Debug\net8.0\Presentation.GeneratedMSBuildEditorConfig.editorconfig
+E:\Production-Project\E_Learning_Platform\obj\Debug\net8.0\Presentation.AssemblyInfoInputs.cache
+E:\Production-Project\E_Learning_Platform\obj\Debug\net8.0\Presentation.AssemblyInfo.cs
+E:\Production-Project\E_Learning_Platform\obj\Debug\net8.0\Presentation.csproj.CoreCompileInputs.cache
+E:\Production-Project\E_Learning_Platform\obj\Debug\net8.0\Presentation.MvcApplicationPartsAssemblyInfo.cs
+E:\Production-Project\E_Learning_Platform\obj\Debug\net8.0\Presentation.MvcApplicationPartsAssemblyInfo.cache
+E:\Production-Project\E_Learning_Platform\obj\Debug\net8.0\Presentation.sourcelink.json
